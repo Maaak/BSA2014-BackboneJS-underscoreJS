@@ -21,7 +21,7 @@ var Calendar = function(){
 			events: [
 				{
 					time: "5:00 AM",
-					text: "Go to the bad"
+					text: "Go to bed"
 				},
 				{
 					time: "7:00 AM",
@@ -37,7 +37,7 @@ var Calendar = function(){
 				},
 				{
 					time: "7:10 AM",
-					text: "Write a code"
+					text: "Write code"
 				}
 			]
 		},
@@ -73,7 +73,7 @@ var Calendar = function(){
 				},
 				{
 					time: "7:10 AM",
-					text: "Write a code"
+					text: "Write code"
 				}
 			]
 		},
@@ -83,7 +83,7 @@ var Calendar = function(){
 			events: [
 				{
 					time: "5:10 AM",
-					text: "Write a code"
+					text: "Write code"
 				}
 			]
 		},
@@ -93,7 +93,7 @@ var Calendar = function(){
 			events: [
 				{
 					time: "7:10 AM",
-					text: "Write a code"
+					text: "Write code"
 				},
 				{
 					time: "7:10 AM",
@@ -121,7 +121,7 @@ var Calendar = function(){
 			events: [
 				{
 					time: "7:10 PM",
-					text: "Stop drink"
+					text: "Stop drinking"
 				}
 			]
 		},
